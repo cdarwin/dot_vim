@@ -13,3 +13,6 @@
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = git@github.com:tpope/vim-markdown.git
+[submodule "bundle/netrw"]
+	path = bundle/netrw
+	url = git@github.com:vim-scripts/netrw.vim.git
